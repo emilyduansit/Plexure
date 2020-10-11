@@ -10,6 +10,10 @@
 ## URL: 
 -	Https://qatestapi.azurewebsites.net/api
 
+FOR FUN
+-	Http://dicegamedemo.azurewebsites.net/
+-	Http://budget-demo.azurewebsites.net/
+
 
 ##  Login Account: 
 -	
