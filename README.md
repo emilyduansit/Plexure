@@ -11,8 +11,8 @@
 -	Https://qatestapi.azurewebsites.net/api
 
 FOR FUN
--	Http://dicegamedemo.azurewebsites.net/
--	Http://budget-demo.azurewebsites.net/
+-	https://dicegame-demo.netlify.app/
+-	https://master.d26pl3jwiko4fu.amplifyapp.com/
 
 
 ##  Login Account: 
